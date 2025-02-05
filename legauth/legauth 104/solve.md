@@ -29,6 +29,6 @@ Priority: u=0, i
 
 ```
 </br>
-<img src="https://github.com/user-attachments/assets/f548b99c-f2ef-4d8c-9c71-e140486874aa" alt="Alt Text" width="600" height="400">  </br></br>
+<img src="https://github.com/user-attachments/assets/f548b99c-f2ef-4d8c-9c71-e140486874aa" alt="Alt Text" width="700" height="350">  </br></br>
 
 Flag: LEGO-us3R-4g3nt-e4d73c
