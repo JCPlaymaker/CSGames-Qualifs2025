@@ -1,6 +1,6 @@
 # Solution
 ##### Pour ce défi, on n'avait qu'à regarder le code source pour voir que dans un script on voyait 
-#####```js
+```js
 <script>
         function locator_encoder() {
             const value = "L2hpZGRlbi9mbGFn";
