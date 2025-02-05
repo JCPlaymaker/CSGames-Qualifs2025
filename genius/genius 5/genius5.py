@@ -51,5 +51,4 @@ while True:
       print(r.recvline().decode().strip())
       print(r.recvline().decode().strip())
       print(r.recvline().decode().strip())
-      break
-#print(eval(solve_equation(equation)))    
+      break  
