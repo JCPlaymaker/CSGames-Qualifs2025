@@ -1,6 +1,6 @@
 # CSGames-Qualifs2025
 
-# After-thoughts
+## After-thoughts
 Je tiens à remercier aux organisateurs, surtout à Quentin Stiévenart et [Ovior](https://github.com/dgagn/) pour avoir créé des défis qui m'ont poussé à sortir de ma zone de confort et apprendre de nouvelles technologies (pour moi) comme la librairie pwntools et SymPy de Python qui m'ont aussi servi et qui me serviront pour d'autres défis.
 ***
 ### Dépôt pour les writeups des qualifications UQAM pour les CSGames 2025.</br> Enfin, ceux qui semblent être les plus intéressants. </br>
