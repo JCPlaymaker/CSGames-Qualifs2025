@@ -26,7 +26,9 @@ Sec-Fetch-Dest: document
 Referer: https://auth10x.chals.ageei.org/
 Accept-Encoding: gzip, deflate, br
 Priority: u=0, i
-``` </br>
+
+```
+</br>
 <img src="https://github.com/user-attachments/assets/f548b99c-f2ef-4d8c-9c71-e140486874aa" alt="Alt Text" width="300" height="300">  </br></br>
 
 Flag: LEGO-us3R-4g3nt-e4d73c
