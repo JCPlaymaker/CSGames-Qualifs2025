@@ -1,0 +1,14 @@
+L'année du lancement d'un set LEGO emblématique.
+Un assemblage historique de briques pour bâtir un nouveau modèle LEGO!
+Initialisation du système en cours... OK
+Chargement des plans de construction... OK
+█▀▀ █░█ █▀ █ █▀█ █▄░█
+█▀░ █▄█ ▄█ █ █▄█ █░▀█
+Entrez les sets LEGO à assembler : (max 100 caractères)
+1969: Assemblage des briques en cours...
+Bienvenue au QG LEGO!
+Félicitations! Vous avez construit la structure la plus solide!
+LEGO-Fu$10n-7h3-fl49$-5d31ae
+
+Assemblage des briques LEGO complété avec succès!
+1969: Assemblage en cours avec les briques des sets Château, Espace, et de la gamme City...
