@@ -1,5 +1,5 @@
 # CSGames-Qualifs2025
-### Voici le dépôt privé (peut-être plus maintenant) pour les writeups des défis pour les qualifications UQAM pour les CSGames 2025. Enfin, ceux qui semblent être les plus intéressants. </br>
+### Dépôt pour les writeups des qualifications UQAM pour les CSGames 2025. Enfin, ceux qui semblent être les plus intéressants. </br>
 ### Règles
 1. Général
 Les qualifications se déroulent sur l’infrastructure sécurisée accessible via *.chals.ageei.org. Tous les défis sont protégés par TLS/SSL.
