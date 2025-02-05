@@ -19,8 +19,6 @@ def solve(question):
 
    return solution
    
-
-
 while True:
 
    line = r.recvline().decode().strip()
