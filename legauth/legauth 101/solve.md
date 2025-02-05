@@ -22,7 +22,7 @@
         }
     </script>
 ```
-La ligne qui nous intéresse est celle-ci
+La ligne qui nous intéresse est celle-ci  
 ``if (document.querySelector('input[name="username"]').value === 'admin' && document.querySelector('input[name="password"]').value === 'p3$$w0rD123') {``
 qui contient les credentials ``admin:p3$$w0rD123``  
 Flag: LEGO-4u7h3n71c4710n-101-028a4d
