@@ -28,9 +28,8 @@ def solve (question):
 
       # To skip to next operator
       i += 2 
-
+      
    return solution
-
 
 while True:
 
