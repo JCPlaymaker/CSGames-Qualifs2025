@@ -50,12 +50,15 @@ Bonjour à tous.tes et @everyone,
 Nous avons le plaisir de vous annoncer que les qualifications des CSGames ont été un véritable succès ! Voici un récapitulatif des performances et chiffres clés :
 
 Participants : 52 participant.e.s
+
 Total de points disponibles : 17 146 (en excluant les points bonus pour les writeups et autres)
+
 Challenges créés : 34, toutes résolues au moins une fois
 
 Au total, nous avons enregistré :
 
 485 soumissions correctes
+
 381 soumissions erronées
 
 Le meilleur score cumulé s’élève à 9320 points !
@@ -63,5 +66,7 @@ Le meilleur score cumulé s’élève à 9320 points !
 Voici le top 3 dans le scoreboard :
 
 KebekIndependant @JayCee 
+
 Tony the Tender @Tony the Tender 
+
 CmD0_ @CmD0_ 
