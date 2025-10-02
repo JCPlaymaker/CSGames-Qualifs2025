@@ -40,3 +40,27 @@ Toutes les communications officielles seront faites via Discord. Si vous rencont
 Chaque flag doit être soumis via la plateforme pour être validé. Assurez-vous de vérifier les formats de soumission indiqués dans chaque défi.
 
 Le format pour les flags est LEGO-.*, donc le flag LEGO-rul3$-8a65ec serait valide pour le challenge des règles.
+
+# Résultat
+
+ovior — 2/5/2025 3:45 PM
+Bonjour à tous.tes et @everyone,
+
+Nous avons le plaisir de vous annoncer que les qualifications des CSGames ont été un véritable succès ! Voici un récapitulatif des performances et chiffres clés :
+
+Participants : 52 participant.e.s
+Total de points disponibles : 17 146 (en excluant les points bonus pour les writeups et autres)
+Challenges créés : 34, toutes résolues au moins une fois
+
+Au total, nous avons enregistré :
+
+485 soumissions correctes
+381 soumissions erronées
+
+Le meilleur score cumulé s’élève à 9320 points !
+
+Voici le top 3 dans le scoreboard :
+
+KebekIndependant @JayCee 
+Tony the Tender @Tony the Tender 
+CmD0_ @CmD0_ 
