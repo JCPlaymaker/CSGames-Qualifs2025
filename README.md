@@ -44,6 +44,7 @@ Le format pour les flags est LEGO-.*, donc le flag LEGO-rul3$-8a65ec serait vali
 # Résultat
 
 ovior — 2/5/2025 3:45 PM
+
 Bonjour à tous.tes et @everyone,
 
 Nous avons le plaisir de vous annoncer que les qualifications des CSGames ont été un véritable succès ! Voici un récapitulatif des performances et chiffres clés :
